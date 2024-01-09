@@ -5,7 +5,7 @@ import streamlit as st
 from streamlit_chat import message
 from amazon import set_background 
 from PyPDF2 import PdfReader
-API_KEY='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'
+API_KEY='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'
 co = cohere.Client(API_KEY)
 
 #################------SOME PAGE DESIGNING !--------###################
