@@ -4,7 +4,7 @@ import re, pickle
 import requests
 import base64
 
-API_KEY = 'KGJW6F2pb5VF9SdqaAfNyaGYQvpgYd0e' # Enter your API key
+API_KEY = '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' # Enter your API key
 
 #################-------Accessing AMAZON API using RapidAPI :( -------###################
 
