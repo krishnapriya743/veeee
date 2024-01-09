@@ -12,7 +12,7 @@ from PyPDF2 import PdfReader
 #   number_of_pages = len(reader.pages)
 #   page = reader.pages
 # print(page[0].extract_text())
-API_KEY='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'
+API_KEY='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'
 co = cohere.Client(API_KEY)
 response_resume = co.generate(
       model='command-xlarge-nightly',
